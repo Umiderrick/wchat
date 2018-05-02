@@ -10,4 +10,8 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+
+     <navigator url='../lowb/lowb'>
+   <image src='https://api.drplant.com.cn/dp-vfs/api/prom/image/jifenshangcheng.png' mode="widthFix"></image>
+   </navigator>
 </view>

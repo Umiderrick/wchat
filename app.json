@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/function/lowb"
+    "pages/lowb/lowb",
+    "pages/highlight/highlight"
   ],
   "window": {
     "backgroundTextStyle": "light",

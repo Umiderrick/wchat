@@ -1,2 +1,5 @@
 <!--pages/function/lowb.wxml-->
-<text>pages/function/lowb.wxml</text>
+<view>{{ msg }}</view>
+<button bindtap="clickMe">点击我</button>
+
+<button bindtap="jump">点击22</button>
